@@ -4,15 +4,15 @@ spring:
       client:
         registration:
           google:
-            client-id: 754975362780-mq5bdf6mi39k2o5mk6ctoa0vhq3ochlc.apps.googleusercontent.com #클라이언트 ID
-            client-secret: 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 #클라이언트 보안 비밀번호
+            client-id:  #클라이언트 ID
+            client-secret: #클라이언트 보안 비밀번호
             scope: 
             - email
             - profile 
             
           facebook:
-            client-id: 1581235645551125 #클라이언트 ID
-            client-secret: 99344330bab8649b7edbe34f0e3b65d3 #클라이언트 보안 비밀번호
+            client-id: #클라이언트 ID
+            client-secret: #클라이언트 보안 비밀번호
             scope: 
             - email
             - public_profile 
@@ -20,8 +20,8 @@ spring:
           # 네이버와 카카오는 OAuth2.0 공식 지원대상이 아니라서 provider 설정이 필요하다.
           # 요청주소도 다르고, 응답 데이터도 다르기 때문이다.   
           naver:
-            client-id: 4AZxlHXPbzaIUbYKW3PA #클라이언트 ID
-            client-secret: jPTClsOd4C #클라이언트 보안 비밀번호
+            client-id: #클라이언트 ID
+            client-secret: #클라이언트 보안 비밀번호
             scope: 
             - name
             - email
@@ -31,8 +31,8 @@ spring:
 
           kakao:
             authorization-grant-type: authorization_code
-            client-id: 9b1f413658dc6725aff46d583ed7743f
-            client-secret:  GtQgLpmOcgf363nfPXFtR5KX4cz8M6Jg
+            client-id: 
+            client-secret:  
             redirect-uri: "http://localhost:8080/login/oauth2/code/kakao" 
             client-authentication-method: POST
             scope: profile_nickname, profile_image, account_email
