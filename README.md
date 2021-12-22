@@ -28,8 +28,8 @@
   
  # <h2>⚒️사용기술</h2>
 
-<img src="https://user-images.githubusercontent.com/86067390/147083000-4e2f4c43-858a-482a-b8fc-24b04a237007.png  width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/86067390/147083001-78abe1ad-033d-4245-b9db-98d6e99b9433.png  width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/86067390/147083002-52863367-de0e-471a-83fe-1d7d20b8ea25.png  width="200" height="400"/>
-<img src="https://user-images.githubusercontent.com/86067390/147082994-9da33b85-7c35-479a-99a2-3795cfc5031c.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/86067390/147083000-4e2f4c43-858a-482a-b8fc-24b04a237007.png"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/86067390/147083001-78abe1ad-033d-4245-b9db-98d6e99b9433.png"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/86067390/147083002-52863367-de0e-471a-83fe-1d7d20b8ea25.png"  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/86067390/147082994-9da33b85-7c35-479a-99a2-3795cfc5031c.png"  width="200" height="400"/>
   </div>
