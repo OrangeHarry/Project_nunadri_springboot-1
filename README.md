@@ -19,7 +19,7 @@
   <br>
   
 <h2>✨주요 기능</h2>
-  <ul list-style:none>
+  <ul>
     <li>카카오 맵 API를 이용하여 지도 구현 및 같은 주소값으로만 게시판이 활성화되게 매핑</li>
     <li>Spring Security를 활용한 회원가입, 로그인, 암호화</li>
     <li>OAuth2를 활용한 소셜로그인 진행</li>
