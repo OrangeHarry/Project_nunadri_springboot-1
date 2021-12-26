@@ -15,6 +15,7 @@
     <li>2차 핵심기능 구현(모임게시판, 중고거래게시판 등) : 2021.12.04 ~ 2021.12.12</li>
     <li>디테일 및 오류 수정 마무리 : 2021.12.13 ~ 2021.12.15</li>
   </ul>
+  <br>
   
  <h2>✨주요 기능</h2>
   <ul list-style:none>
@@ -27,13 +28,15 @@
     <li>모임개최 및 참석 기능</li>
     <li>API를 활용한 결제 기능</li>
   </ul>
- 
+  <br>
+  
  <h2>⚒️사용기술</h2>
 
 <img src="https://user-images.githubusercontent.com/86067390/147083000-4e2f4c43-858a-482a-b8fc-24b04a237007.png"  width="400" height="300"/>
 <img src="https://user-images.githubusercontent.com/86067390/147083001-78abe1ad-033d-4245-b9db-98d6e99b9433.png"  width="400" height="300"/>
 <img src="https://user-images.githubusercontent.com/86067390/147083002-52863367-de0e-471a-83fe-1d7d20b8ea25.png"  width="400" height="300"/>
 <img src="https://user-images.githubusercontent.com/86067390/147082994-9da33b85-7c35-479a-99a2-3795cfc5031c.png"  width="400" height="300"/>
+   <br>
   
  <h2>🧑‍💻소개파일 및 발표영상</h2>
    [너나들이 소개파일](https://github.com/OrangeHarry/Project_nunadri_springboot-1/blob/main/%EB%84%88%EB%82%98%EB%93%A4%EC%9D%B4.pdf) <br>
