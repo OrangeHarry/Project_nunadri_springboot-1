@@ -50,13 +50,6 @@ spring:
             token-uri: https://kauth.kakao.com/oauth/token
             user-info-uri: https://kapi.kakao.com/v2/user/me
             user-name-attribute: id
-
-#  jpa:
-#    hibernate:
-#      ddl-auto: update #create update none
-#      naming:
-#        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
-#    show-sql: true
             
 cos:
- key: cos1234
+ key: #이 코스키로 소셜로그인들 임시 비밀번호 발급
